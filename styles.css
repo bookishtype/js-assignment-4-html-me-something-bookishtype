@@ -1,10 +1,25 @@
 /* Write your CSS here! */
-/* body {
+
+body {
     background-image: url("https://wallpaperaccess.com/full/1547801.jpg");
-background-color: blanchedalmond;
-background-size: cover;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+p {
+margin: 8px, 10px, 12px;
+padding:3px, 3px, 5px;
 }
  img {
     width:  100px;
     height: 100px;
-}  */
+} 
+#subdued{
+   text-align:center;
+   color: #43BCE9
+}
