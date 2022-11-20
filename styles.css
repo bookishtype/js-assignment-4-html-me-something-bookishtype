@@ -3,21 +3,25 @@
 body {
     background-image: url("https://wallpaperaccess.com/full/1547801.jpg");
     background-size: cover;
+    margin: 8px;
+    display: block;
 }
-h1{
+#mainHeading{
     text-align: center;
-
+    color: red;
 }
-h2{
-    text-align: center;
+.funParagraph{
+    color: green;
 }
 p {
+color: pink;
 margin: 8px, 10px, 12px;
 padding:3px, 3px, 5px;
 }
  img {
-    width:  100px;
-    height: 100px;
+    width:  200px;
+    height: 200px;
+    float: center;
 } 
 #subdued{
    text-align:center;
