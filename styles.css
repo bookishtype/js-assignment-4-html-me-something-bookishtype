@@ -1,7 +1,7 @@
 /* Write your CSS here! */
 
 body {
-    background-image: url("https://w.wallhaven.cc/full/z8/wallhaven-z88zwg.png");
+    background-image: url("https://wallpapers.com/images/hd/light-blue-aesthetic-cartoon-clouds-6ag5nnz42ri6xcss-6ag5nnz42ri6xcss.jpg");
     background-size: cover;
     margin: 8px;
     display: block;
@@ -13,7 +13,7 @@ body {
 .funParagraph{
     color: green;
 }
-p {
+.p {
 color: green;
 margin: 8px, 10px, 12px;
 padding:3px, 3px, 5px;
